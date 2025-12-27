@@ -137,3 +137,4 @@ Permite ativar/desativar partes do código sem perder a posição.
 Roda todo o código acima do cursor.  
 Muito usado em análise exploratória.
 
+*Made using chat gpt*
